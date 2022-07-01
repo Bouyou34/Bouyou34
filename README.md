@@ -3,11 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouyou34&label=Profile%20views&color=880eb4&style=flat" alt="bouyou34" /> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🔭 I’m currently working on **The Odin Project**
 
-- 👯 I’m looking to collaborate on **anything**
+- 🌱 Currently learning **C#**
 
-- 📫 How to reach me **nouvel.mael.34@gmail.com**
+- 👯 I'd like to collaborate on **anything C# or Android related**
+
+- 👨‍💻 I'm currently working **on a solo VR game**
+
+- 📫 Here's my discord to reach me **Bouyou34#0848**
+
+- 📝 You can check my resume here : [https://bouyou34.github.io/resume/](https://bouyou34.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

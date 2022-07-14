@@ -7,7 +7,7 @@
 
 - 🌱 Currently learning **C#**
 
-- 👯 I'd like to collaborate on **anything C# or Android related**
+- 👯 I'd like to collaborate on **anything C#, Android or front-end related**
 
 - 👨‍💻 I'm currently working **on a solo VR game**
 

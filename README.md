@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouyou34&label=Profile%20views&color=880eb4&style=flat" alt="bouyou34" /> </p>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com)
+- 🔭 I’m currently working on [cs50](https://www.edx.org/cs50)
 
 - 🌱 Currently learning **C#**
 

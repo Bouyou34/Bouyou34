@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouyou34&label=Profile%20views&color=880eb4&style=flat" alt="bouyou34" /> </p>
 
-- 🔭 I’m currently working on [cs50](https://www.edx.org/cs50)
+- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
-- 🌱 Currently learning **C#**
+- 🌱 Currently learning **html**
 
-- 👯 I'd like to collaborate on **anything C#, Android or front-end related**
+- 👯 I'd like to collaborate on **anything really**
 
 - 👨‍💻 I'm currently working **on a solo VR game**
 

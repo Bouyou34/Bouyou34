@@ -13,7 +13,7 @@
 
 - 📫 Here's my discord to reach me **Bouyou34#0848**
 
-- 📝 You can check my resume here : [https://bouyou34.github.io/resume/](https://bouyou34.github.io/resume/)
+- 📝 You can check my resume here : [https://bouyou34.github.io/CurriculumVitae/](https://bouyou34.github.io/CurriculumVitae)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

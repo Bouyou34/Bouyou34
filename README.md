@@ -14,6 +14,7 @@
 - ⚡ A fact about me **I love warhammers**
 
 <h3 align="left">Connect with me:</h3>
+https://fr.linkedin.com/in/mael-nouvel/
 <p align="left">
 </p>
 

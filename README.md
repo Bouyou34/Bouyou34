@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **anything that'll help me improve**
 
-- 📫 Here's my discord to reach me **Bouyou34#0848**
+- 📫 Here's my discord to reach me : **Bouyou34#0848**
 
-- ⚡ A fact about me **I love warhammers**
+- ⚡ A fact about me : **I love warhammers**
 
 <h3 align="left">Connect with me:</h3>
 https://fr.linkedin.com/in/mael-nouvel/

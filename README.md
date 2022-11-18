@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouyou34&label=Profile%20views&color=880eb4&style=flat" alt="bouyou34" /> </p>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
+- 🔭 I’m currently working on **a personnal phone app** to learn
 
-- 🌱 Currently learning **html**
+- 🌱 Currently learning **Kotlin**
 
 - 👯 I'd like to collaborate on **anything really**
 
-- 👨‍💻 I'm currently working **on a solo VR game**
+- 👨‍💻 I'm currently working **on a solo VR game** as hobby
 
 - 📫 Here's my discord to reach me **Bouyou34#0848**
 
-- 📝 You can check my resume here : [https://bouyou34.github.io/CurriculumVitae/](https://bouyou34.github.io/CurriculumVitae)
+- 📝 You can check my resume here : WIP, remaking it
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

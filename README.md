@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouyou34&label=Profile%20views&color=880eb4&style=flat" alt="bouyou34" /> </p>
 
-- 🔭 I’m currently working on **a personnal phone app to learn**
+- 🔭 I’m currently working on **a small game for a game jam**
 
 - 🌱 I’m currently learning **Kotlin**
 

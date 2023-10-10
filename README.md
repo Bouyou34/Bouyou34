@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouyou34&label=Profile%20views&color=880eb4&style=flat" alt="bouyou34" /> </p>
 
-- 🔭 I’m currently working on **a small game for a game jam**
+- 🔭 I’m currently working on **a new game engine** to sharpen my programming logic
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **anything that'll help me improve**
 

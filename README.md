@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **maelnouvel@duck.com**
+- 📫 Here's my mail to reach me : **maelnouvel@duck.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

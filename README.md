@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azalphal&label=Profile%20views&color=0e75b6&style=flat" alt="azalphal" /> </p>
 
-- 🔭 I’m currently working on **a small API to learn Java**
+- 🔭 I’m currently working on **a school project** that eventually will become **a real big mobile app**
 
 - 🌱 I’m currently learning **Java**
 

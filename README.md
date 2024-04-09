@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azalphal&label=Profile%20views&color=0e75b6&style=flat" alt="azalphal" /> </p>
 
-- 🔭 I’m currently working on **a school project** that eventually will become **a real big mobile app**
+- 🔭 I’m currently working on **a school project**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, Angular, React & PHP**
 
 - 📫 Here's my mail to reach me : **maelnouvel@duck.com**
 
